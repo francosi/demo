@@ -2,3 +2,7 @@ void main()
 {
 }
 
+Function setupGpio()
+{
+	
+}
